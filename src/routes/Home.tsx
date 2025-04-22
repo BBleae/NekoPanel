@@ -32,7 +32,7 @@ const Home: React.FC = () => {
             className='address'
             title='服务器地址'
             value=''
-            prefix={<Typography.Title copyable level={4}>play.neko-craft.com</Typography.Title>}
+            prefix={<Typography.Title copyable level={4}>play.nekocraft.net</Typography.Title>}
           />
         </Card>
       </Col>
